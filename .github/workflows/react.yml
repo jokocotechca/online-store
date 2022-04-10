@@ -27,4 +27,3 @@ jobs:
         server: ftp.cotechca.com
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
-        server-dir: /joko.cotechca.com/
