@@ -1,7 +1,7 @@
 {
-  "name": "starter_template",
+  "name": "online_store",
   "version": "0.1.0",
-  "homepage": "joko.cotechca.com",
+  "homepage": "https://joko.cotechca.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
